@@ -13,7 +13,7 @@ function returnHeader(headerIndex, headerLinksUrls, headerLinksTexts) {
         <tr>
             <td>
                 <table class="row-content" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation"
-                    style="mso-table-lspace:0;mso-table-rspace:0;background-color:#00355f;color:#333;margin:0 auto"
+                    style="mso-table-lspace:0;mso-table-rspace:0;background: linear-gradient(#00355f, #00355f); background-color: #00355f;color:#333;margin:0 auto"
                     width="100%">
                     <tbody>
                         <tr>
@@ -242,7 +242,7 @@ function returnHeader(headerIndex, headerLinksUrls, headerLinksTexts) {
             <tr>
                 <td>
                     <table class="row-content" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation"
-                        style="mso-table-lspace:0;mso-table-rspace:0;background-color:#00355f;color:#333;margin:0 auto"
+                        style="mso-table-lspace:0;mso-table-rspace:0;background: linear-gradient(#00355f, #00355f); background-color: #00355f;color:#333;margin:0 auto"
                         width="100%">
                         <tbody>
                             <tr>
